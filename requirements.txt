@@ -1,0 +1,12 @@
+streamlit
+tensorflow
+opencv-python
+opencv-contrib-python
+mediapipe
+pillow
+numpy
+pandas
+altair
+protobuf
+matplotlib
+scikit-learn
